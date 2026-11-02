@@ -1,0 +1,105 @@
+{
+  "web": {
+    "slug": "trinity-vintage",
+    "repository": "https://github.com/profondosud/rivela-trinity-vintage",
+    "pages_url": "https://profondosud.github.io/rivela-trinity-vintage/",
+    "pages_status": "built",
+    "home": {
+      "url": "https://profondosud.github.io/rivela-trinity-vintage/",
+      "status": 200,
+      "bytes": 7936
+    },
+    "assets": [
+      {
+        "url": "https://profondosud.github.io/rivela-trinity-vintage/styles.css",
+        "status": 200,
+        "bytes": 15713
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-trinity-vintage/images/trinity-05.webp",
+        "status": 200,
+        "bytes": 318976
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-trinity-vintage/images/trinity-02.webp",
+        "status": 200,
+        "bytes": 263178
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-trinity-vintage/images/trinity-03.webp",
+        "status": 200,
+        "bytes": 311854
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-trinity-vintage/images/trinity-04.webp",
+        "status": 200,
+        "bytes": 329998
+      }
+    ],
+    "cliente": "Trinity Vintage"
+  },
+  "browser": {
+    "slug": "trinity-vintage",
+    "sizes": [
+      {
+        "brokenImages": [],
+        "client": 305,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 305,
+        "viewport": 320
+      },
+      {
+        "brokenImages": [],
+        "client": 375,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 375,
+        "viewport": 390
+      },
+      {
+        "brokenImages": [],
+        "client": 753,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 753,
+        "viewport": 768
+      },
+      {
+        "brokenImages": [],
+        "client": 1265,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 1265,
+        "viewport": 1280
+      }
+    ]
+  },
+  "mobile": {
+    "slug": "trinity-vintage",
+    "focus": {
+      "focusVisible": true,
+      "outline": "solid",
+      "tag": "A"
+    },
+    "contact": {
+      "hash": "#visita",
+      "mobileAction": [
+        {
+          "height": 52,
+          "href": "tel:+34617544962",
+          "visible": true
+        }
+      ],
+      "overflow": false,
+      "phone": [
+        "tel:+34617544962",
+        "tel:+34617544962",
+        "tel:+34617544962",
+        "tel:+34617544962",
+        "tel:+34617544962",
+        "tel:+34617544962"
+      ]
+    }
+  }
+}
