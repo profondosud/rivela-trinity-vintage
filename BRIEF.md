@@ -58,7 +58,6 @@ pubblicazione definitiva, verificando i diritti. Questa nota non autorizza la de
 - GitHub Pages: stato `built`; pagina, CSS e tutte le foto della demo rispondono HTTP 200.
 - Demo aperta e verificata nel browser il 2 novembre 2026.
 
-
 ## Da verificare
 
 - Foto trinity-01 esclusa perché appare un fotomontaggio; non è inclusa nella demo.
